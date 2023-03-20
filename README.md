@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vu Hoang Kien</h1>
-<h3 align="center">A sophomore from Hanoi </h3>
+<h3 align="center">A sophomore from Foreign Trade University </h3>
 
 
-- 🌱 I’m currently learning **Supply Chain Managenment**
+- 🌱 I’m currently learning **Supply Chain Management**
 
 
 - 💬 Ask me about **Mathematics and Supply chain :"**
