@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kiên Hoàng</h1>
-<h3 align="center">A sophomore from Hanoi</h3>
+<h1 align="center">Hi 👋, I'm Vu Hoang Kien</h1>
+<h3 align="center">A sophomore from Hanoi </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinhoang&label=Profile%20views&color=0e75b6&style=flat" alt="kinhoang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinhoang" alt="kinhoang" /></a> </p>
+- 🌱 I’m currently learning **Supply Chain Managenment**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 💬 Ask me about **Mathematics and Supply chain :"**
+
+- 📫 How to reach me **vuhoangkientb@gmail.com**
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=kinhoang&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
